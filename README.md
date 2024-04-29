@@ -4,5 +4,14 @@ This project is part of ACA course instructed by Dr. Emad. This project implemen
 
 ## Plan and block ownership:
   Youmna:
+    ALU
+    Instruction memory
+    Forwarding unit
+    buffers
+    Muxes
 
   Mayar:
+    Register file
+    Data Memory
+    Control unit
+    PC
