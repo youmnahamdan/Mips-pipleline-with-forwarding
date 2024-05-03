@@ -18,6 +18,7 @@ This project is part of ACA course instructed by Dr. Emad. This project implemen
     <li>Data Memory</li>
     <li>Control unit</li>
     <li>PC</li>
+    <li>Hazard Unit</li>
   </ul>
     
     
