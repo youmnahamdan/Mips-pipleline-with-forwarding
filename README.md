@@ -43,7 +43,7 @@ WE APOLOGIZE FOR THE INCONVENIENCE!!!
 ### Sample tests of some units:
 Register File:
 Testbench:
-<code>
+```
 `include "defines.v"
 
 `timescale 1ns/1ps
@@ -131,16 +131,16 @@ module register_file_tb;
 
 endmodule
 
-</code>
+```
 
-Waveform:
+#### Waveform:
 ![EDA WaveForm register file](https://github.com/youmnahamdan/Mips-pipleline-with-forwarding/assets/79578959/24a7200f-58c8-4ec5-842d-273bb8ad7bb5)
 
 
 
 ALU:
 Testbench:
-<code>
+```
 `include "defines.v"
 
 `timescale 1ns/1ps
@@ -222,8 +222,8 @@ module ALU_tb;
 
 endmodule
 
-</code>
-
+```
+#### Waveform
 ![EDA WaveForm ](https://github.com/youmnahamdan/Mips-pipleline-with-forwarding/assets/79578959/7a2f2e6c-4a5c-4473-a43e-75c6f25a2fea)
 
    
